@@ -1,5 +1,5 @@
 //shared components
-
+import Navbar from "./shared/Navbar"
 
 
 
@@ -8,5 +8,6 @@ import Hero from './home/Hero'
 
 
 export {
+    Navbar,
     Hero
 }
