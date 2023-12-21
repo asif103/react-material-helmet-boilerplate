@@ -4,7 +4,7 @@ import { createTheme, ThemeProvider } from '@mui/material';
 export default function Theme({ children }) {
   const theme = createTheme({
     typography: {
-      fontFamily: 'inter',
+      fontFamily: 'poppins',
     },
     palette: {
       text: {

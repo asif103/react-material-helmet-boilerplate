@@ -10,6 +10,12 @@ export const HeaderMenu = [
         id:2,
         title:"About",
         path:MAIN_MENU.ABOUT
+    },
+    {
+        id: 3,
+        title : "Contact",
+        path : MAIN_MENU.CONTACT
+
     }
 ]
 
